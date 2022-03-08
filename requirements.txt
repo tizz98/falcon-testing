@@ -6,7 +6,7 @@ cql==1.4.0
 falcon==1.4.1
 greenlet==0.4.12
 gunicorn==19.7.1
-httpie==0.9.9
+httpie==3.1.0
 idna==2.6
 msgpack==0.5.1
 Pygments==2.2.0
